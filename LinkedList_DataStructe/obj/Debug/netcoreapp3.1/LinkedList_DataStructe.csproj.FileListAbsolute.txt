@@ -1,0 +1,13 @@
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\bin\Debug\netcoreapp3.1\LinkedList_DataStructe.exe
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\bin\Debug\netcoreapp3.1\LinkedList_DataStructe.deps.json
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\bin\Debug\netcoreapp3.1\LinkedList_DataStructe.runtimeconfig.json
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\bin\Debug\netcoreapp3.1\LinkedList_DataStructe.runtimeconfig.dev.json
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\bin\Debug\netcoreapp3.1\LinkedList_DataStructe.dll
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\bin\Debug\netcoreapp3.1\LinkedList_DataStructe.pdb
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.csprojAssemblyReference.cache
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.AssemblyInfoInputs.cache
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.AssemblyInfo.cs
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.csproj.CoreCompileInputs.cache
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.dll
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.pdb
+C:\Users\saiku\source\repos\LinkedList_DataStructe\LinkedList_DataStructe\obj\Debug\netcoreapp3.1\LinkedList_DataStructe.genruntimeconfig.cache
